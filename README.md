@@ -1,1 +1,1 @@
-# MINIST-Demo.py
+# MINIST-Demo
